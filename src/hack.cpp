@@ -343,7 +343,7 @@ void hack::Initialize()
     hack::initialized = true;
     for (int i = 0; i < 12; i++)
     {
-        re::ITFMatchGroupDescription *desc = re::GetMatchGroupDescription(i);
+        re::ITFMatchGroupDescription *desc = re::GetMatchGroupDescription(int);
         if (!desc || desc->m_iID > 9) // ID's over 9 are invalid
             continue;
         if (desc->m_bForceCompetitiveSettings)
