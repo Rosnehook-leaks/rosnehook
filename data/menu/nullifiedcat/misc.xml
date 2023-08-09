@@ -1,0 +1,8 @@
+<Tab name="Misc">
+    <TabContainer width="fill" height="fill">
+        <Include path="nullifiedcat/misc/general.xml"/>
+        <Include path="nullifiedcat/misc/chat.xml"/>
+        <Include path="nullifiedcat/misc/gaypresence.xml"/>
+        <Include path="nullifiedcat/misc/regions.xml"/>
+    </TabContainer>
+</Tab>
