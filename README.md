@@ -21,7 +21,7 @@ Dependencies are handled automatically by the [dependencycheck](https://github.c
 
 Open a terminal window and enter the following command:
 
-    git clone https://github.com/cowhookdev/cathook; cd cathook; ./install-all
+    git clone https://github.com/Rosnehook-leaks/rosnehook; cd rosnehook; ./install-all
 
 The `cathook` folder should have been created successfully, containing all source files.
 
