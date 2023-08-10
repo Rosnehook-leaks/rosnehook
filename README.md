@@ -1,4 +1,4 @@
-### Hello all yeah i leaked the cheat gate kept by some 12 yaer old go ahead and send him an email rohsne2011@gmail.com
+### Hello all yeah onetf2 leaked the cheat gate kept by some 12 year old go ahead and send him an email rohsne2011@gmail.com
 
 after 9 years in development hopefully it was worth the wait
 
